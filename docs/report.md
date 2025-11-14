@@ -2,7 +2,7 @@
 
 | Verified by | Date |
 |:------------|:-----|
-|`TODO`|`TODO`|
+|DL | 7 November |
 
 ## Speculation
 
